@@ -17,7 +17,7 @@ public void user_on_the_login_page() {
 	
 	driver.get("https://www.toolsqa.com/");
 	
-	//driver.close();
+	driver.close();
 	
 	
 	
